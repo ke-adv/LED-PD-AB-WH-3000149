@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 15:49:40 On 30.05.2022
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [LED PD AB WH 3000149 (4F00228L_7P00501A).PrjPCB]
+   Generated File[Bill of Materials-LED PD AB WH 3000149 (4F00228L_7P00501A).xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 15:49:42 On 30.05.2022
